@@ -1,0 +1,7 @@
+{
+  "name": "HOMA Band",
+  "description": "AI-powered music and rhyme generator converting Telugu and English lyrics into audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
